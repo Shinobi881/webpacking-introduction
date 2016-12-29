@@ -1,0 +1,1 @@
+const greetings = 'file2.js';

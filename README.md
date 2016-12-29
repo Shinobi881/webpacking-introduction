@@ -1,7 +1,22 @@
-# webpack-npm
+# webpack-modules
+*How do I make use of multiple files?*
+
+### Let's get modular
+1. Create `file2.js`
+2. Write some JS in it
+2. Bundle
+3. Run
+
+*Questions:*
+- *What happened when I tried to bundle this time?*
+- *If there were any errors what were they and why?*
+
+`git co webpack-modules-fin`
+
+### *Previously:*
 
 #### Webpack-CLi-for-real
-*(`webpack-cli`)*
+*(`webpack-cli-fin`)*
 
 **Let's get started:**
 
@@ -16,20 +31,3 @@
 
 *`git co webpack-modules`*
 
-
-### *Previously:*
-
-#### Webpack-CLi
-*(`webpack-cli`)*
-
-**Let's get started:**
-
-1. Create entry
-2. Write some JS
-3. Run Webpack
-
-**Questions:**
-- *What happens when we run `webpack`?*
-- *How do we know if this is even working?*
-
-*`git co webpack-cli-fin`*

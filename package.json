@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"REACTATHON!!!!!\"",
-    "webpack": "webpack"
+    "webpack": "webpack --entry ./index.js --output-filename ./output.js",
+    "execute": "node output.js"
   },
   "keywords": [],
   "author": "",

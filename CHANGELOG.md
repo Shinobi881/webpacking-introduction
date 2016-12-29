@@ -1,3 +1,18 @@
+#### Webpack-CLi-for-real
+*(`webpack-cli-fin`)*
+
+**Let's get started:**
+
+1. Create entry
+2. Write some JS
+3. Run `webpack --entry [relative path] --output-file [relative path]`
+4. `node [path to output file]`
+
+**Questions:**
+- *How can we make bundling our code easier?*
+- *How can we make running our code easier?*
+
+*`git co webpack-modules`*
 
 #### Webpack-CLi
 *(`webpack-cli`)*
