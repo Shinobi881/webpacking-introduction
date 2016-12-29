@@ -20,7 +20,6 @@
 ### Application Basics
 - Module systems
 - CommonJS
-- Javascript
 - Intro-ES6+
 - Dir Structure
 
@@ -28,7 +27,8 @@
 - Development Environment
 - Hot-Module-Replacement
   - Webpack Development Server (`webpack-dev-server`)
-
+  - Middleware
+  - Manual Configuration
 ### Let's Code
 - ESWhatever
 - Reacting
