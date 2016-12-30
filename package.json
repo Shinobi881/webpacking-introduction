@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"REACTATHON!!!!!\"",
     "bundle": "webpack ./index.js ./output.js",
-    "execute": "node output.js"
+    "execute": "node output.js",
+    "do-it": "npm run bundle && npm run execute"
   },
   "keywords": [],
   "author": "",
