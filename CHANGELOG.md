@@ -1,4 +1,17 @@
+### Webpack-Config-Intro
+*(`webpack-config`)*
+1. In the root dir create `config.js`
+2. Write your bare bones Webpack configuration
+2. Bundle
+3. Run
+
+*Questions:*
+- *How do bundle from our config instead of direct file access?*
+
+`git co webpack-config-fin`
+
 ### Webpack-Modules-For-Real
+*(`webpack-modules-fin`)*
 1. Export `greetings` from `file2.js`
 2. Require `greetings` to `index.js`
 2. Bundle
@@ -13,6 +26,7 @@
 `git co webpack-config`
 
 ### Webpack-Modules
+*(`webpack-modules`)*
 1. Create `file2.js`
 2. Write some JS in it
 2. Bundle
