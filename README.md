@@ -9,7 +9,7 @@
 *Questions:*
 - *How do bundle from our config instead of direct file access?*
 
-`git co webpack-`
+`git co webpack-app-intro`
 
 ### *Previously:*
 
