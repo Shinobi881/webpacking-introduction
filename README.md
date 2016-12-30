@@ -1,5 +1,18 @@
-# webpack-modules
-*How do I make use of multiple files?*
+# webpack-config-intro
+*How do I make use of multiple files? With the Webpack configuration file we move away from tons of CLi scripts (as it relates to Webpack)*
+
+### Webpack-Config-Intro
+1. In the root dir create `config.js`
+2. Write your bare bones Webpack configuration
+2. Bundle
+3. Run
+
+*Questions:*
+- *How do bundle from our config instead of direct file access?*
+
+`git co webpack-config-fin`
+
+### *Previously:*
 
 ### Webpack-Modules-For-Real
 1. Export `greetings` from `file2.js`
@@ -14,23 +27,3 @@
 - *What's are some logical next steps for our?*
 
 `git co webpack-config`
-
-### *Previously:*
-
-#### Webpack-Modules
-*(`webpack-modules`)*
-
-*How do I make use of multiple files?*
-
-### Let's get modular
-1. Create `file2.js`
-2. Write some JS in it
-2. Bundle
-3. Run
-
-*Questions:*
-- *What happened when I tried to bundle this time?*
-- *If there were any errors what were they and why?*
-
-`git co webpack-modules-fin`
-

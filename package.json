@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"REACTATHON!!!!!\"",
-    "bundle": "webpack ./index.js ./output.js",
+    "bundle": "webpack --config ./config.js",
     "execute": "node output.js"
   },
   "keywords": [],
